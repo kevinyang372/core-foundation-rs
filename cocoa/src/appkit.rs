@@ -48,7 +48,7 @@ extern "C" {
     pub static NSPasteboardTypeRuler: id;
     pub static NSPasteboardTypeColor: id;
     pub static NSPasteboardTypeSound: id;
-    pub static NSPasteboardTypeFileURL: id;
+    pub static NSPasteboardTypeURL: id;
     pub static NSPasteboardTypeMultipleTextSelection: id;
     pub static NSPasteboardTypeFindPanelSearchOptions: id;
 
